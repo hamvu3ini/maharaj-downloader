@@ -1,0 +1,74 @@
+MAHARAJ DOWNLOADER {VERSION}
+===========================
+A free download manager for Windows 10 and 11, for personal use.
+By Sasanka Boruah (VU3INI) - hamvu3ini@gmail.com
+
+Everything is in this folder: nothing is downloaded during installation, so it installs and
+runs on a computer without internet. Included: the program, yt-dlp (videos and MP3),
+FFmpeg (merging and MP3/Opus/FLAC conversion), gallery-dl (image galleries), 7-Zip
+(7z and RAR archives), the browser extension, the full searchable Help, and the licences.
+
+
+OPTION 1 - INSTALL (recommended)
+--------------------------------
+1. Double-click  Maharaj_Downloader_Setup_v{VERSION}.exe
+2. If Windows says "Windows protected your PC": click "More info", then "Run anyway"
+   (the program is not code-signed).
+3. Read and accept the Terms of Use, then follow the setup. No administrator rights are
+   needed: it installs for your Windows account, in the Start menu.
+4. Start "Maharaj Downloader" from the Start menu. Accept the Terms of Use (shown at every
+   start) by clicking "I Agree (OK)".
+
+Uninstall: Windows Settings -> Apps -> Installed apps -> Maharaj Downloader -> Uninstall.
+Update: run a newer version's setup; your downloads list and settings are kept.
+
+
+OPTION 2 - PORTABLE (nothing installed in Windows, e.g. on a USB stick)
+-----------------------------------------------------------------------
+Run the same setup, choose a folder on the USB stick as the destination, and on the
+"Select Additional Tasks" page tick "Portable copy" (and untick browser integration,
+torrents and start with Windows). The download list and settings then stay in the
+program's "data" folder; nothing is written to the computer. Run MaharajDownloader.exe
+from that folder on any Windows 10/11 computer.
+
+
+BROWSER EXTENSION (Chrome, Edge, Brave, Opera, Vivaldi, Firefox)
+----------------------------------------------------------------
+After installing (Option 1), open the folder
+  %LOCALAPPDATA%\Programs\Maharaj Downloader\extension
+and open INSTALL.html: it shows each step. In short, for Chrome / Edge / Brave:
+extensions page -> turn on Developer mode -> Load unpacked -> choose the "chromium" folder.
+Firefox: the file maharaj-downloader-firefox.xpi (see INSTALL.html).
+Maharaj Downloader also offers these steps itself ("Show me how") until a browser connects.
+
+
+IN THE PROGRAM
+--------------
+- Help:          press F1, click "Help" at the bottom right, or use the Help menu.
+                 The Help is searchable and works offline.
+- Light / dark:  the "Dark theme" / "Light theme" button at the bottom right, or View menu.
+- Videos / MP3:  Tasks -> Download video from a page..., paste the page's address,
+                 click Look up, choose a quality or "Audio only MP3".
+- Torrents:      Tasks -> Search torrents... (needs internet): Internet Archive built in,
+                 add your own RSS / Jackett / Prowlarr sources under "Sources...".
+- About:         Help -> About Maharaj Downloader.
+
+
+WHAT'S NEW IN 1.0.1
+-------------------
+- The Maharaj Downloader browser extension: its own logo, name and offline help, for
+  Chrome, Edge, Brave, Opera, Vivaldi and Firefox; it installs from the program's folder.
+- Torrent search (Tasks -> Search torrents...).
+
+
+FILES IN THIS FOLDER
+--------------------
+Maharaj_Downloader_Setup_v{VERSION}.exe   the setup program
+TERMS-OF-USE.txt                          the Terms of Use
+SOURCE\                                   the source code (GNU GPL) and the list of changes
+SHA256SUMS.txt                            checksums of every file, to check the copy is whole
+
+
+By using Maharaj Downloader you agree to its Terms of Use (TERMS-OF-USE.txt): personal,
+non-commercial use only; you are solely responsible for what you download with it.
+Maharaj Downloader is based on Mister Download Manager by Ahmed Nefzaoui (GPL-3.0-or-later).

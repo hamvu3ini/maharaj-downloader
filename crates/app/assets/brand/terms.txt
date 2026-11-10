@@ -1,0 +1,45 @@
+MAHARAJ DOWNLOADER - TERMS OF USE AND DISCLAIMER
+Terms version 1.0, effective 10 November 2026
+
+PLEASE READ THESE TERMS CAREFULLY BEFORE USING THE SOFTWARE. BY CLICKING "I AGREE (OK)" YOU CONFIRM THAT YOU HAVE READ AND UNDERSTOOD THESE TERMS AND AGREE TO BE LEGALLY BOUND BY THEM. IF YOU DO NOT AGREE, CLICK "EXIT" AND DO NOT USE THE SOFTWARE.
+
+1. DEFINITIONS
+"Software" means Maharaj Downloader, including its programs, helper tools, browser extension, documentation and updates. "Author" means Sasanka Boruah (callsign VU3INI), who prepared and distributes this build of the Software. "You" or "User" means the person using the Software.
+
+2. ACCEPTANCE AND ELIGIBILITY
+These Terms form a binding agreement between You and the Author, accepted electronically each time the Software starts. You must be at least 18 years old, or use the Software only with the consent and supervision of a parent or legal guardian who accepts these Terms on Your behalf.
+
+3. PERSONAL, NON-COMMERCIAL USE ONLY
+The Author makes this build of the Software, and the Author's name, callsign and logo, available for Your personal, private and non-commercial use only. You agree not to use the Software for any commercial purpose and not to present the Software, or anything You make with it, as endorsed by the Author. Nothing in these Terms restricts any right You have under the open-source licences described in section 9.
+
+4. YOU ARE SOLELY RESPONSIBLE FOR YOUR USE
+The Software is a neutral tool that runs on Your computer under Your sole control. You alone decide what to download, convert, copy, store or share, and You are solely and fully responsible for that use and its consequences. You agree to download only content that You own, that is in the public domain, that is licensed to You, or that its owner has permitted You to download.
+
+5. LAWFUL USE
+You agree to comply with all laws that apply to You, including the Copyright Act, 1957 and the Information Technology Act, 2000 of India and the laws of the country where You are, and with the terms of service of every website You use. You must not use the Software to: (a) infringe copyright, trademark, privacy or any other right of any person; (b) circumvent any digital rights management or other technological protection measure; (c) download, store or share unlawful, obscene, defamatory or harmful content; (d) overload, attack or gain unauthorised access to any server or network; or (e) commit or assist any other unlawful act.
+
+6. NO CONTENT, NO ENDORSEMENT, NO AFFILIATION
+The Author does not host, provide, select, monitor or control any content that You obtain with the Software, and has no knowledge of it. The Software's torrent search shows results supplied by third parties: the Internet Archive, and any site or indexer that You add Yourself. The Author does not choose, review, host or control those sites or their results, and adding a site, searching it and downloading anything it lists are entirely Your own choice and responsibility. The Software is not affiliated with, endorsed by or sponsored by any website or service it can work with. All third-party names and trademarks belong to their respective owners.
+
+7. DISCLAIMER OF WARRANTIES
+THE SOFTWARE IS PROVIDED FREE OF CHARGE, "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING ANY WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, ACCURACY, NON-INFRINGEMENT, OR THAT IT WILL BE UNINTERRUPTED, SECURE OR FREE OF ERRORS OR HARMFUL COMPONENTS. YOU USE THE SOFTWARE ENTIRELY AT YOUR OWN RISK, AND YOU ARE RESPONSIBLE FOR BACKING UP YOUR DATA.
+
+8. LIMITATION OF LIABILITY AND INDEMNITY
+TO THE FULLEST EXTENT PERMITTED BY LAW, THE AUTHOR SHALL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR PUNITIVE DAMAGES, OR FOR ANY LOSS OF DATA, PROFITS, GOODWILL OR REPUTATION, OR FOR ANY FINE, PENALTY, CLAIM OR LEGAL PROCEEDING, ARISING OUT OF OR RELATED TO THE SOFTWARE, ITS USE OR INABILITY TO USE IT, OR ANY CONTENT YOU OBTAIN WITH IT, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. You agree to defend, indemnify and hold harmless the Author from and against all claims, liabilities, damages, losses, costs and expenses, including reasonable legal fees, arising out of or related to Your use of the Software, any content You obtain with it, or Your breach of these Terms or of any law or third-party right.
+
+9. OPEN-SOURCE COMPONENTS
+The Software is based on Mister Download Manager by Ahmed Nefzaoui and is distributed under the GNU General Public License, version 3 or later (GPL-3.0). It includes yt-dlp (Unlicense), FFmpeg (GNU GPL/LGPL), gallery-dl (GNU GPL-2.0) and other components under their own licences, listed in the LICENSES folder installed with the Software. Those licences govern those components and their source code; where these Terms and those licences differ, those licences prevail for those components. Their authors are not responsible for this build and give no warranty for it.
+
+10. PRIVACY
+The Software runs on Your computer. The Author does not collect, receive or store any personal data from it. The Software connects only to the servers You ask it to download from, to the search sources You choose when You search for torrents (they receive Your search words), and, when You are online, to GitHub to keep the yt-dlp helper up to date.
+
+11. CHANGES AND TERMINATION
+The Author may change these Terms with a new version of the Software; the Terms shown when the Software starts apply to that use. Your permission to use this build ends automatically if You breach these Terms; You must then stop using it and delete it.
+
+12. GOVERNING LAW AND SEVERABILITY
+These Terms are governed by the laws of India, and the courts of competent jurisdiction in India shall have jurisdiction over any dispute arising from them. If any provision is held unenforceable, it shall be enforced to the maximum extent permitted and the remaining provisions shall continue in full force.
+
+13. CONTACT
+Sasanka Boruah (VU3INI) - hamvu3ini@gmail.com
+
+BY CLICKING "I AGREE (OK)", YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTOOD AND AGREE TO ABIDE BY THESE TERMS OF USE.

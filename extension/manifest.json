@@ -1,0 +1,62 @@
+{
+    "manifest_version": 3,
+    "default_locale": "en",
+    "name": "__MSG_name__",
+    "version": "0.1.0",
+    "description": "__MSG_description__",
+    "minimum_chrome_version": "116",
+    "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArsls9ChWOi1Kz7BMBHUh35Zb+Z9ZU2l7ELYGmuobe2YgqP10EePIoDShNVXrpPnMaWJ/9Vd6K3VoVO08RujQlG1ouH9YylTYg27GpsnCotqYeRd7b1W4/06p7S3rPa6vm5fmtN6ZrB9WZ9GSUYbBAoK5XY60e2GC0m5j906kXDUh+nbHyfgK3DxDOoZNMm7aRbR8dYpK51FTN2p5W2Y3fbxETnAKOdEmDzH2hAZR42qgTXADaEt4PUK3y9/iqzUFfkds8dGLFmeKYnbTHV2fB0W330rjyjADSd3HwUo1nUk/FDg0XKSoVfpCAkZKJ5QpsFUwfJCBdnVyzkLKDQMNAQIDAQAB",
+    "permissions": [
+        "downloads",
+        "contextMenus",
+        "nativeMessaging",
+        "cookies",
+        "storage",
+        "webRequest",
+        "scripting",
+        "declarativeNetRequestWithHostAccess",
+        "proxy"
+    ],
+    "host_permissions": [
+        "<all_urls>"
+    ],
+    "background": {
+        "service_worker": "background.js"
+    },
+    "action": {
+        "default_popup": "popup.html",
+        "default_title": "__MSG_name__",
+        "default_icon": {
+            "16": "icons/icon-16.png",
+            "32": "icons/icon-32.png"
+        }
+    },
+    "content_scripts": [
+        {
+            "matches": [
+                "<all_urls>"
+            ],
+            "js": [
+                "video.js"
+            ],
+            "all_frames": true,
+            "run_at": "document_idle"
+        },
+        {
+            "matches": [
+                "<all_urls>"
+            ],
+            "js": [
+                "page.js"
+            ],
+            "all_frames": true,
+            "run_at": "document_start"
+        }
+    ],
+    "icons": {
+        "16": "icons/icon-16.png",
+        "32": "icons/icon-32.png",
+        "48": "icons/icon-48.png",
+        "128": "icons/icon-128.png"
+    }
+}
